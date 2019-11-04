@@ -1,0 +1,5 @@
+cmd --> wmic 
+
+wmic memorychip
+
+wimc cpu
