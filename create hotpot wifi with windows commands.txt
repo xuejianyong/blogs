@@ -1,0 +1,8 @@
+netsh wlan set hostednetwork mode=allow ssid=testnetwork key=12345678
+
+share the current connected network with the new created virtual wifi
+
+start the created virtual wifi:
+netsh wlan start hostednetwork
+
+
